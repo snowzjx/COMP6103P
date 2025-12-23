@@ -16,27 +16,59 @@ hide:
     - 田佳林 (jltian)
     - 李紫惠 (lizihui2002)
 
+!!! note "更新：线上论文分享和课程小论文 / 论文阅读笔记的提交"
+
+    请同学们阅读相关要求并按时提交。
+
+## 线上论文分享提交
+
+由于线下汇报人数有限，请报名线上录屏分享论文的队伍（1-3人）将录屏文件及对应论文pdf发送至邮箱 **netclass2025@163.com**，要求如下：
+
+1.  录屏为 mp4 格式，建议使用腾讯会议录屏，30-40 分钟为佳，命名为论文标题-学号姓名-学号姓名；
+2.  同时附上论文 PDF，命名为论文标题-学号姓名-学号姓名；
+3.  邮件标题为高网论文分享-学号姓名-学号姓名（例如高网论文分享-SA25011001张三-SA25011002李四）；
+4.  截止日期为 **2025年1月13日24时**。
+
+如第一节课所述，此项为额外加分，而非必选项，可以不用交。
+
+## 课程小论文 / 论文阅读笔记提交
+
+请大家在 **1月15日24时** 前，通过邮箱提交 **课程小论文**，或提交**不少于 5 篇论文的阅读笔记**（**二选一**即可）。以 PDF 格式提交，文件命名为“SA25011001-张三-高网课程作业”。提交至：**acncoursework@163.com**。
+
+提交后，同学们应该收到提示邮件被成功接收的自动回复。若邮件发送失败或没有收到自动回复，请尽快联系我们。同学们收到的自动回复邮件是作业提交成功的重要凭证。
+
+-   如果你选择提交 **论文阅读笔记**，我们建议按下面的逻辑框架来写（每篇论文的阅读笔记都应包含对这 6 个问题的回答）：
+
+      1.  当前存在什么问题？
+      2.  现有方案为什么不能解决该问题？
+      3.  本文打算通过什么思路解决该问题？
+      4.  该思路会遇到什么挑战？
+      5.  本文通过什么手段克服该挑战？
+      6.  本文如何通过实验论证了所提方案的优越性？
+
+    另外，建议在每篇阅读笔记末尾单独附上一个“附录”：将该论文第一章（Introduction）每一段用 1–2 句话概括其核心思想/内容，以加深对第一章写作逻辑与结构的理解。每篇论文阅读笔记大约在 600-1000 字，要求是与网络相关的论文。
+
+-   若选择提交 **小论文**，则需是网络相关的小论文，可以是研究论文也可是综述论文，按照常规论文格式即可，中英文不限，严禁抄袭。
+
+课程小论文/论文阅读笔记占总评成绩 **40%**。
 
 ## 课程安排
 
-| 课次    | 主题             | 论文                                                                  | PPT                    |
-|----- |------------------|----------------------------------------------------------------------|-------------------------|
-| 1      | fat tree         | [A Scalable, Commodity Data Center Network Architecture](papers/FatTree.pdf) | [FatTree](slides/FatTree-slides.pdf) |
-| 2      | VL2              | [VL2: A scalable and flexible data center network](papers/VL2.pdf)        | [VL2](slides/VL2-slides.pdf) |
-| 3      | OpenFlow/SDN     | [OpenFlow Enabling Innovation in Campus Networks](papers/OpenFlow.pdf)         | [OpenFlow](slides/OpenFlow-slides.pdf) |
-| 4      | B4              | [B4: Experience with a Globally-Deployed Software Defined WAN](papers/B4.pdf) | [B4](slides/B4-slides.pdf) |
-| 5      | 调度            | [Hedera: Dynamic Flow Scheduling for Data Center Networks](papers/Hedera.pdf) | [Hedera](slides/Hedera-slides.pdf) |
-| 6      | 更新            | [Dynamic Scheduling of Network Updates](papers/Dionysus.pdf)                   | [Dionysus](slides/Dionysus-slides.pdf) |
-| 7      | SFC             | [SIMPLE-fying Middlebox Policy Enforcement Using SDN](papers/SIMPLE.pdf) | [SIMPLE](slides/SIMPLE-slides.pdf) |
-| 8      | NFV             | [ClickOS and the Art of Network Function Virtualization](papers/ClickOS.pdf) | [ClickOS](slides/ClickOS-slides.pdf) |
-| 9      | P4              | [P4: Programming Protocol-Independent Packet Processors](papers/P4.pdf) | [P4](slides/P4-slides.pdf) |
-| 10     | OVS             | [The Design and Implementation of Open vSwitch](papers/OVS.pdf) | [OVS](slides/OVS-slides.pdf) |
-| 11     | MPTCP           | [Design, implementation and evaluation of congestion control for multipath TCP](papers/MPTCP.pdf) | [MPTCP](slides/MPTCP-slides.pdf) |
-| 12     | DCQCN           | Congestion Control for Large-Scale RDMA Deployments【SIGCOMM15】       | - |
-| 13     | QUIC            | The QUIC Transport Protocol_ Design and Internet-Scale Deployment 【SIGCOMM17】 | - |
-| 14     | 仿真器 | NOX- Towards an Operating System for Networks <br> A network in a laptop: rapid prototyping for software-defined networks | - |
-| 15     | 仿真器 | - | - |
-| 待定   | 光网络           | Helios: a hybrid electrical/optical switch architecture for modular data centers【SIGCOMM10】 | - |
+| 课次 | 主题    | 论文                                                                                              | PPT                                    |
+|--- |--------- |-------------------------------------------------------------------------------------------------- |--------------------------------------- |
+| 1  | DCN      | [A Scalable, Commodity Data Center Network Architecture](papers/FatTree.pdf)                      | [FatTree](slides/FatTree-slides.pdf)   |
+| 2  | DCN      | [VL2: A scalable and flexible data center network](papers/VL2.pdf)                                | [VL2](slides/VL2-slides.pdf)           |
+| 3  | SDN      | [OpenFlow Enabling Innovation in Campus Networks](papers/OpenFlow.pdf)                            | [OpenFlow](slides/OpenFlow-slides.pdf) |
+| 4  | SDN      | [B4: Experience with a Globally-Deployed Software Defined WAN](papers/B4.pdf)                     | [B4](slides/B4-slides.pdf)             |
+| 5  | DCN      | [Hedera: Dynamic Flow Scheduling for Data Center Networks](papers/Hedera.pdf)                     | [Hedera](slides/Hedera-slides.pdf)     |
+| 6  | SDN      | [Dynamic Scheduling of Network Updates](papers/Dionysus.pdf)                                      | [Dionysus](slides/Dionysus-slides.pdf) |
+| 7  | SDN      | [SIMPLE-fying Middlebox Policy Enforcement Using SDN](papers/SIMPLE.pdf)                          | [SIMPLE](slides/SIMPLE-slides.pdf)     |
+| 8  | SDN      | [ClickOS and the Art of Network Function Virtualization](papers/ClickOS.pdf)                      | [ClickOS](slides/ClickOS-slides.pdf)   |
+| 9  | SDN      | [P4: Programming Protocol-Independent Packet Processors](papers/P4.pdf)                           | [P4](slides/P4-slides.pdf)             |
+| 10 | SDN      | [The Design and Implementation of Open vSwitch](papers/OVS.pdf)                                   | [OVS](slides/OVS-slides.pdf)           |
+| 11 | Protocol | [Design, implementation and evaluation of congestion control for multipath TCP](papers/MPTCP.pdf) | [MPTCP](slides/MPTCP-slides.pdf)       |
+| 12 | Protocol | [Congestion Control for Large-Scale RDMA Deployments](papers/DCQCN.pdf)                           | [DCQCN](slides/DCQCN-slides.pdf)       |
+| 13 | Protocol | [The QUIC Transport Protocol: Design and Internet-Scale Deployment](papers/QUIC.pdf)              | [QUIC](slides/QUIC-slides.pdf)         |
 
 ## 可供参考的分享论文列表
 

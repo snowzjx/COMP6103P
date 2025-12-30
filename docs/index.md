@@ -133,7 +133,7 @@ hide:
 | 第16周 2025.12.23 | 杜柏言 吴风帆 林文浩 | MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs |
 | | 黄佳依 赵涵 苗明鑫 | ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation |
 | | 李岱霖 刘翔宇 鉏博洋 | Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoint |
-| 第17周 2025.12.30 | 陈子阳 丁则文 候世卓 | ServerlessLLM: Low-Latency Serverless Inference for Large Language Models |
+| 第17周 2025.12.30 | 陈子阳 丁则文 侯世卓 | ServerlessLLM: Low-Latency Serverless Inference for Large Language Models |
 | | 江伟怡 胡梦婷 蒋雨含 | CASSINI: Network-Aware Job Scheduling in Machine Learning Clusters |
 | | 王若言 刘丰毅 | Fast Algorithms for Loop-Free Network Updates using Linear Programming and Local Search |
 

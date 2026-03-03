@@ -5,15 +5,15 @@ hide:
 
 # USTC COMP6103P.03 Advanced Computer Networking
 
-## 课程信息
+## Course Information
 
 - Course Name：Advanced Computer Networking (COMP6103P.03)
 - Time: 19:30 - 21:55, Thursday, 5th March 2026 - 2nd July 2026
 - Venue: GT-A405, High Tech Campus
 - Instructor：Junxue ZHANG (snowzjx at ustc dot edu dot cn)
 - TAs:
-  - Waenbo LI ()
-  - Han WANG ()
+    - Waenbo LI ()
+    - Han WANG ()
 
 <!-- !!! note "期末考试形式"
 

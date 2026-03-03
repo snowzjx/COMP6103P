@@ -1,7 +1,7 @@
-site_name: USTC高级计算机网络课程主页
+site_name: Advanced Computer Networking
 # site_url: https://www.ustc.edu.cn
-repo_name: ACN-2025/ACN-2025.github.io
-repo_url: https://github.com/ACN-2025/ACN-2025.github.io
+repo_name: snowzjx/COMP6103P
+repo_url: https://github.com/snowzjx/COMP6103P
 theme:
   name: material
 markdown_extensions:

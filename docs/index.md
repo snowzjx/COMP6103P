@@ -3,20 +3,19 @@ hide:
   - navigation
 ---
 
-# USTC 高级计算机网络 课程主页
+# USTC COMP6103P.03 Advanced Computer Networking
 
 ## 课程信息
 
-- 课程名称：高级计算机网络 (COMP6103P.01)
-- 上课时间地点：2~20周 GT-B212: 2(11,12,13)
-- 主讲教师：赵功名 (gmzhao at ustc dot edu dot cn)
-- 助教 (邮箱：括号中的用户名 at mail dot ustc dot edu dot cn)
-    - 朱家成 (zhu_jc)
-    - 邓立鑫 (denglx)
-    - 田佳林 (jltian)
-    - 李紫惠 (lizihui2002)
+- Course Name：Advanced Computer Networking (COMP6103P.03)
+- Time: 19:30 - 21:55, Thursday, 5th March 2026 - 2nd July 2026
+- Venue: GT-A405, High Tech Campus
+- Instructor：Junxue ZHANG (snowzjx at ustc dot edu dot cn)
+- TAs:
+  - Waenbo LI ()
+  - Han WANG ()
 
-!!! note "期末考试形式"
+<!-- !!! note "期末考试形式"
 
     期末考试将于 2026 年 1 月 13 日 19:00 ~ 21:00 在 G3-110 进行。
     考试采用全开卷形式。
@@ -27,9 +26,9 @@ hide:
 
 !!! note "更新：线上论文分享和课程小论文 / 论文阅读笔记的提交"
 
-    请同学们阅读相关要求并按时提交。
+    请同学们阅读相关要求并按时提交。 -->
 
-## 线上论文分享提交
+<!-- ## 线上论文分享提交
 
 由于线下汇报人数有限，请报名线上录屏分享论文的队伍（1-3人）将录屏文件及对应论文pdf发送至邮箱 **netclass2025@163.com**，要求如下：
 
@@ -59,11 +58,19 @@ hide:
 
 -   若选择提交 **小论文**，则需是网络相关的小论文，可以是研究论文也可是综述论文，按照常规论文格式即可，中英文不限，严禁抄袭。
 
-课程小论文/论文阅读笔记占总评成绩 **40%**。
+课程小论文/论文阅读笔记占总评成绩 **40%**。 -->
 
-## 课程安排
+## Syllabus
 
-| 课次 | 主题    | 论文                                                                                              | PPT                                    |
+| Lecture | Topic | Paper | Slides |a
+| --- | --- | --- | --- |
+| 1 | DCN | [A Scalable, Commodity Data Center Network Architecture](papers/fattree-paper.pdf), SIGCOMM 2008 | [Intro & FatTree](slides/intro&fattree-slides.pdf) |
+| 2 | DCN | [Data Center TCP (DCTCP)](papers/dctcp-paper.pdf), SIGCOMM 2010| To Release |
+| 3 | DCN | [Information-Agnostic Flow Scheduling for Commodity Data Centers](papers/pias-paper.pdf), NSDI 2015 | To Release |
+| 4 | DCN | [CONGA: Distributed Congestion-aware Load Balancing for Datacenters](papers/conga-paper.pdf), SIGCOMM 2014 | To Release |
+| 5 | DCN | [RDMA over Commodity Ethernet at Scale](papers/rdma-paper.pdf), SIGCOMM 2016 | To Release |
+
+<!-- | 课次 | 主题    | 论文                                                                                              | PPT                                    |
 |--- |--------- |-------------------------------------------------------------------------------------------------- |--------------------------------------- |
 | 1  | DCN      | [A Scalable, Commodity Data Center Network Architecture](papers/FatTree.pdf)                      | [FatTree](slides/FatTree-slides.pdf)   |
 | 2  | DCN      | [VL2: A scalable and flexible data center network](papers/VL2.pdf)                                | [VL2](slides/VL2-slides.pdf)           |
@@ -144,8 +151,4 @@ hide:
 | | 李岱霖 刘翔宇 鉏博洋 | Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoint |
 | 第17周 2025.12.30 | 陈子阳 丁则文 侯世卓 | ServerlessLLM: Low-Latency Serverless Inference for Large Language Models |
 | | 江伟怡 胡梦婷 蒋雨含 | CASSINI: Network-Aware Job Scheduling in Machine Learning Clusters |
-| | 王若言 刘丰毅 | Fast Algorithms for Loop-Free Network Updates using Linear Programming and Local Search |
-
-
-
-
+| | 王若言 刘丰毅 | Fast Algorithms for Loop-Free Network Updates using Linear Programming and Local Search | -->

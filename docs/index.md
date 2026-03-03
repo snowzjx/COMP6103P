@@ -62,7 +62,7 @@ hide:
 
 ## Syllabus
 
-| Lecture | Topic | Paper | Slides |a
+| Lecture | Topic | Paper | Slides |
 | --- | --- | --- | --- |
 | 1 | DCN | [A Scalable, Commodity Data Center Network Architecture](papers/fattree-paper.pdf), SIGCOMM 2008 | [Intro & FatTree](slides/intro&fattree-slides.pdf) |
 | 2 | DCN | [Data Center TCP (DCTCP)](papers/dctcp-paper.pdf), SIGCOMM 2010| To Release |

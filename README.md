@@ -1,2 +1,2 @@
-# ACN-2025.github.io
-USTC course Advanced Computer Networking(COMP6103P.01) homepage.
+# COMP6103P
+Advanced Computer Networking (COMP6103P.03) Course Page.

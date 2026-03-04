@@ -12,7 +12,7 @@ hide:
 - Venue: GT-A405, High Tech Campus
 - Instructor：Junxue ZHANG (snowzjx at ustc dot edu dot cn)
 - TAs:
-    - Wenbo LI ()
+    - Wenbo LI (wenboli at mail dot ustc dot edu dot cn)
     - Han WANG ()
 
 <!-- !!! note "期末考试形式"

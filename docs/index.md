@@ -66,7 +66,7 @@ hide:
 | 1 | DCN | [A Scalable, Commodity Data Center Network Architecture](papers/fattree-paper.pdf), SIGCOMM 2008 | [Intro & FatTree](slides/intro&fattree-slides.pdf) |
 | 2 | DCN | [Data Center TCP (DCTCP)](papers/dctcp-paper.pdf), SIGCOMM 2010| [DCTCP](slides/dctcp-slides.pdf) |
 | 3 | DCN | [Information-Agnostic Flow Scheduling for Commodity Data Centers](papers/pias-paper.pdf), NSDI 2015 | [PIAS](slides/pias-slides.pdf) |
-| 4 | DCN | [CONGA: Distributed Congestion-aware Load Balancing for Datacenters](papers/conga-paper.pdf), SIGCOMM 2014 | To Release |
+| 4 | DCN | [CONGA: Distributed Congestion-aware Load Balancing for Datacenters](papers/conga-paper.pdf), SIGCOMM 2014 | [CONGA](slides/conga-slides.pdf) |
 | 5 | DCN | [RDMA over Commodity Ethernet at Scale](papers/rdma-paper.pdf), SIGCOMM 2016 | To Release |
 
 <!-- | 课次 | 主题    | 论文                                                                                              | PPT                                    |

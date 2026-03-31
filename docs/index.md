@@ -68,8 +68,8 @@ hide:
 | 3 | DCN | [Information-Agnostic Flow Scheduling for Commodity Data Centers](papers/pias-paper.pdf), NSDI 2015 | [PIAS](slides/pias-slides.pdf) |
 | 4 | DCN | [CONGA: Distributed Congestion-aware Load Balancing for Datacenters](papers/conga-paper.pdf), SIGCOMM 2014 | [CONGA](slides/conga-slides.pdf) |
 | 5 | DCN | [RDMA over Commodity Ethernet at Scale](papers/rdma-paper.pdf), SIGCOMM 2016 | [RDMA](slides/rdma-slides.pdf) |
-| 6 | SDN | [OpenFlow: Enabling Innovation in Campus Networks](papers/openflow-paper.pdf), SIGCOMM CCR 2008 <br> [P4: Programming Protocol-Independent Packet Processors](papers/p4-paper.pdf), SIGCOMM CCR 2014 | To Release |
-| 7 | SDN | ATP: In-network Aggregation for Multi-tenant Learning, NSDI 2021 | To Release |
+| 6 | SDN | [OpenFlow: Enabling Innovation in Campus Networks](papers/openflow-paper.pdf), SIGCOMM CCR 2008 <br> [P4: Programming Protocol-Independent Packet Processors](papers/p4-paper.pdf), SIGCOMM CCR 2014 | [SDN](slides/sdn-slides.pdf) |
+| 7 | SDN | ATP: In-network Aggregation for Multi-tenant Learning, NSDI 2021 | [ATP](slides/atp-slides.pdf) |
 | 8 | SDN | PINT: Probabilistic In-band Network Telemetry, SIGCOMM 2020 | To Release |
 
 <!-- | 课次 | 主题    | 论文                                                                                              | PPT                                    |

@@ -71,6 +71,7 @@ hide:
 | 6 | SDN | [OpenFlow: Enabling Innovation in Campus Networks](papers/openflow-paper.pdf), SIGCOMM CCR 2008 <br> [P4: Programming Protocol-Independent Packet Processors](papers/p4-paper.pdf), SIGCOMM CCR 2014 | [SDN](slides/sdn-slides.pdf) |
 | 7 | SDN | [ATP: In-network Aggregation for Multi-tenant Learning](papers/atp-paper.pdf), NSDI 2021 | [ATP](slides/atp-slides.pdf) |
 | 8 | SDN | [PINT: Probabilistic In-band Network Telemetry](papers/pint-sigcomm.pdf), SIGCOMM 2020 | [PINT](slides/pint-slides.pdf) |
+| 9 | Protocol | [QUIC: Design and Internet-Scale Deployment](papers/quic.pdf), SIGCOMM 2017 | [QUIC](slides/quic-slides.pdf) |
 
 <!-- | 课次 | 主题    | 论文                                                                                              | PPT                                    |
 |--- |--------- |-------------------------------------------------------------------------------------------------- |--------------------------------------- |

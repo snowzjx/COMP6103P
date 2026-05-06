@@ -74,6 +74,7 @@ hide:
 | 9 | Protocol | [QUIC: Design and Internet-Scale Deployment](papers/quic.pdf), SIGCOMM 2017 | [QUIC](slides/quic-slides.pdf) |
 | 10 | Protocol | [PCC: Re-architecting Congestion Control for Consistent High Performance](papers/pcc-paper.pdf), NSDI 2015 | [PCC](slides/pcc-slides.pdf) |
 | 11 | Protocol | [PCC Vivace: Online-Learning Congestion Control](papers/pccv-paper.pdf), NSDI 2018 | [PCC Vivace](slides/pccv-slides.pdf) |
+| 12 | Protocol | [Pensieve: Neural Adaptive Video Streaming with Pensieve](papers/pensieve-paper.pdf), SIGCOMM 2017 | [Pensieve](slides/pensieve-slides.pdf) |
 <!-- | 课次 | 主题    | 论文                                                                                              | PPT                                    |
 |--- |--------- |-------------------------------------------------------------------------------------------------- |--------------------------------------- |
 | 1  | DCN      | [A Scalable, Commodity Data Center Network Architecture](papers/FatTree.pdf)                      | [FatTree](slides/FatTree-slides.pdf)   |

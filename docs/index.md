@@ -138,7 +138,7 @@ hide:
 
 | Time                   | Presenters                                    | Paper                                                                     |
 | ---------------------- | --------------------------------------------- | ------------------------------------------------------------------------- |
-| Week 11 (May 14, 2026) | Xing Yubo, Zhou Jun, Huang Yuxin, Liu Qingyao | [Let It Flow: Resilient Asymmetric Load Balancing with Flowlet Switching](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-vanini.pdf) |
+| Week 11 (May 14, 2026) | Xing Yubo, Zhou Jun, Huang Yuxin, Liu Qingyao | [Let It Flow: Resilient Asymmetric Load Balancing with Flowlet Switching](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-vanini.pdf), NSDI 2017 |
 
 <!-- | 第4周 2025.9.30 | 沈嘉玮 李宇航 | Alibaba HPN: A Data Center Network for Large Language Model Training |
 | 第6周 2025.10.14 | 李宇哲 刘睿博 周瓯翔 | AutoCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training |

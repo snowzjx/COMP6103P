@@ -77,7 +77,7 @@ hide:
 | 12 | Protocol | [Pensieve: Neural Adaptive Video Streaming with Pensieve](papers/pensieve-paper.pdf), SIGCOMM 2017 | [Pensieve](slides/pensieve-slides.pdf) |
 | 13 | Net4AI | [TopoOpt: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs](https://arxiv.org/pdf/2202.00433), NSDI 2023 | [TopoOpt](slides/topoopt-slides.pdf) |
 <!-- | 课次 | 主题    | 论文                                                                                              | PPT                                    |
-|--- |--------- |-------------------------------------------------------------------------------------------------- |--------------------------------------- |
+|--- |--------- |---------------------------------------- ---------------------------------------------------------- |--------------------------------------- |
 | 1  | DCN      | [A Scalable, Commodity Data Center Network Architecture](papers/FatTree.pdf)                      | [FatTree](slides/FatTree-slides.pdf)   |
 | 2  | DCN      | [VL2: A scalable and flexible data center network](papers/VL2.pdf)                                | [VL2](slides/VL2-slides.pdf)           |
 | 3  | SDN      | [OpenFlow Enabling Innovation in Campus Networks](papers/OpenFlow.pdf)                            | [OpenFlow](slides/OpenFlow-slides.pdf) |
@@ -140,6 +140,7 @@ hide:
 | Time                   | Presenters                                    | Paper                                                                     |
 | ---------------------- | --------------------------------------------- | ------------------------------------------------------------------------- |
 | Week 11 (May 14, 2026) | Xing Yubo, Zhou Jun, Huang Yuxin, Liu Qingyao | [Let It Flow: Resilient Asymmetric Load Balancing with Flowlet Switching](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-vanini.pdf), NSDI 2017 |
+| Week 12 (May 21, 2026) | Sui Xinyi | [Coflow: A Networking Abstraction for Cluster Applications](https://dl.acm.org/doi/pdf/10.1145/2390231.2390237), HotNets-XI 2012 |
 
 <!-- | 第4周 2025.9.30 | 沈嘉玮 李宇航 | Alibaba HPN: A Data Center Network for Large Language Model Training |
 | 第6周 2025.10.14 | 李宇哲 刘睿博 周瓯翔 | AutoCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training |

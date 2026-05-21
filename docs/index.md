@@ -14,6 +14,14 @@ hide:
 - TAs:
     - Wenbo LI (wenboli at mail dot ustc dot edu dot cn)
 
+!!! note "Exam and Essay Information"
+
+    The final exam will be held on **Monday, June 22, 2026, 13:50-15:50** at **G2-B303, #2 Academic Building, High Tech Campus**. The exam lasts **2 hours** and accounts for **60%** of the final grade. It is an **open-book exam**, but **electrical devices are not allowed**.
+
+    The assignment is a **topic review essay**, accounting for **40%** of the final grade. The essay should include **at least 10 papers**. Please submit the essay **before the final exam** by email to **2176406119@qq.com**. The email subject and attachment should be named in the format **Name-StudentID-essay**.
+
+    **Plagiarism and GenAI Policy:** Plagiarism will receive a **zero mark**. LLM-based tools, such as ChatGPT and DeepSeek, and traditional AI-assisted writing tools, such as Grammarly, may be used only to improve the presentation and clarity of your essay. They must not be used to generate any substantive content.
+
 <!-- !!! note "期末考试形式"
 
     期末考试将于 2026 年 1 月 13 日 19:00 ~ 21:00 在 G3-110 进行。

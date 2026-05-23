@@ -16,7 +16,7 @@ hide:
 
 !!! note "Exam and Essay Information"
 
-    The final exam is expected to be held on <span style="color: red;">**Monday, June 22, 2026, 09:00-11:00**</span> at <span style="color: red;">**G2-B302, #2 Academic Building, High Tech Campus**</span>. The exam lasts **2 hours** and accounts for **60%** of the final grade. It is an **open-book exam**, but **electrical devices are not allowed**.
+    The final exam is expected to be held on <span style="color: red;"><strong>Monday, June 22, 2026, 09:00-11:00</strong></span> at <span style="color: red;"><strong>G2-B302, #2 Academic Building, High Tech Campus</strong></span>. The exam lasts **2 hours** and accounts for **60%** of the final grade. It is an **open-book exam**, but **electrical devices are not allowed**.
 
     The assignment is a **topic review essay**, accounting for **40%** of the final grade. The essay should include **at least 10 papers**. Please submit the essay **before the final exam** by email to **2176406119@qq.com**. The email subject and attachment should be named in the format **Name-StudentID-essay**.
 
@@ -83,7 +83,7 @@ hide:
 | 10 | Protocol | [PCC: Re-architecting Congestion Control for Consistent High Performance](papers/pcc-paper.pdf), NSDI 2015 | [PCC](slides/pcc-slides.pdf) |
 | 11 | Protocol | [PCC Vivace: Online-Learning Congestion Control](papers/pccv-paper.pdf), NSDI 2018 | [PCC Vivace](slides/pccv-slides.pdf) |
 | 12 | Protocol | [Pensieve: Neural Adaptive Video Streaming with Pensieve](papers/pensieve-paper.pdf), SIGCOMM 2017 | [Pensieve](slides/pensieve-slides.pdf) |
-| 13 | Net4AI | [TopoOpt: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs](https://arxiv.org/pdf/2202.00433), NSDI 2023 | [TopoOpt](slides/topoopt-slides.pdf) |
+| 13 | Net4AI | [TopoOpt: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs](papers/topoopt.pdf), NSDI 2023 | [TopoOpt](slides/topoopt-slides.pdf) |
 <!-- | 课次 | 主题    | 论文                                                                                              | PPT                                    |
 |--- |--------- |---------------------------------------- ---------------------------------------------------------- |--------------------------------------- |
 | 1  | DCN      | [A Scalable, Commodity Data Center Network Architecture](papers/FatTree.pdf)                      | [FatTree](slides/FatTree-slides.pdf)   |

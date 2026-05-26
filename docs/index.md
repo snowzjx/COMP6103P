@@ -84,6 +84,7 @@ hide:
 | 11 | Protocol | [PCC Vivace: Online-Learning Congestion Control](papers/pccv-paper.pdf), NSDI 2018 | [PCC Vivace](slides/pccv-slides.pdf) |
 | 12 | Protocol | [Pensieve: Neural Adaptive Video Streaming with Pensieve](papers/pensieve-paper.pdf), SIGCOMM 2017 | [Pensieve](slides/pensieve-slides.pdf) |
 | 13 | Net4AI | [TopoOpt: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs](papers/topoopt.pdf), NSDI 2023 | [TopoOpt](slides/topoopt-slides.pdf) |
+| 14 | Net4AI | [MLT: Towards Domain-Specific Network Transport for Distributed DNN Training](https://www.usenix.org/system/files/nsdi24-wang-hao.pdf), NSDI 2024 | [MLT](slides/mlt-slides.pdf) |
 <!-- | 课次 | 主题    | 论文                                                                                              | PPT                                    |
 |--- |--------- |---------------------------------------- ---------------------------------------------------------- |--------------------------------------- |
 | 1  | DCN      | [A Scalable, Commodity Data Center Network Architecture](papers/FatTree.pdf)                      | [FatTree](slides/FatTree-slides.pdf)   |

@@ -22,6 +22,11 @@ hide:
 
     **Plagiarism and GenAI Policy:** Plagiarism will receive a **zero mark**. LLM-based tools, such as ChatGPT and DeepSeek, and traditional AI-assisted writing tools, such as Grammarly, may be used only to improve the presentation and clarity of your essay. They must not be used to generate any substantive content.
 
+
+!!! note "Grade Release"
+
+    The grades for Advanced Computer Network have been released. If you would like to request paper checking, please contact me before <span style="color: red;"><strong>July 15, 2026</strong></span>.
+
 <!-- !!! note "期末考试形式"
 
     期末考试将于 2026 年 1 月 13 日 19:00 ~ 21:00 在 G3-110 进行。
